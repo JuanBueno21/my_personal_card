@@ -1,0 +1,1 @@
+ /Users/juanbueno/Desktop/Flutter\ -\ Udemy/my_card_flutter/.dart_tool/flutter_build/8bf0e1d936718ff47dd13ff48ac69b13/native_assets.yaml: 
